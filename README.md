@@ -13,7 +13,7 @@ Dự án này tập trung vào việc ứng dụng các kỹ thuật Học máy 
 Mục tiêu chính của nhóm là xây dựng một mô hình lai (hybrid model) có khả năng phân loại các loại rối loạn nhịp tim với độ chính xác và độ tin cậy cao, đặc biệt trong điều kiện dữ liệu y tế thường xuyên bị mất cân bằng.
 
 <p align="center">
-  <img src="assets/process.png" alt="Sơ đồ quy trình của dự án" width="600"/>
+  <img src="process.png" alt="Sơ đồ quy trình của dự án" width="600"/>
 </p>
 
 Chúng tôi đã triển khai kỹ thuật học hợp thể **Stacking (Stacking Ensemble Learning)**. Mô hình này bao gồm:
